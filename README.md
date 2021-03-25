@@ -1,16 +1,29 @@
-# bitcoin
+# Aplicativo que busca o valor de Venda da Moeda Bitcoin
+[![NPM](https://img.shields.io/npm/l/react)](![bitcoin](https://user-images.githubusercontent.com/58492693/112519516-35511e80-8d79-11eb-8af8-056120b40897.gif)
+) 
 
-A new Flutter project.
 
-## Getting Started
+# Sobre o projeto
 
-This project is a starting point for a Flutter application.
+O App é uma aplicação mobile que está sendo construída durante o Curso de Flutter realizado na **Plataforma Udemy** (https://udemy.com).
+O Intuito é buscar o valor da moeda bitcoin atualizado, utilizando uma **API** diretamente da **url** (https://www.blockchain.com/).
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Layout mobile
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+# Tecnologias utilizadas
+## Back end
+- Dart
+## Front end
+- Flutter
+
+# Autor
+
+Carlos Henrique Lima de Souza
+
+https://www.linkedin.com/in/carlos-henrique-b07192a7/
+
+
