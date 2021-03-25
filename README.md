@@ -1,5 +1,5 @@
 # Aplicativo que busca o valor de Venda da Moeda Bitcoin
-[![NPM](https://img.shields.io/npm/l/react)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/chenrilima/bitcoin/blob/master/LICENSE) 
 
 # Sobre o projeto
 
